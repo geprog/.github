@@ -1,1 +1,3 @@
-# .github
+# GEPROG GmbH
+
+Hey :wave:!

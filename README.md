@@ -1,3 +1,0 @@
-# GEPROG GmbH
-
-Hey :wave:!

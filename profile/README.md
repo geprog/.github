@@ -1,4 +1,6 @@
-## Hi there 👋
+# GEPROG GmbH
+
+Hey :wave:!
 
 <!--
 
